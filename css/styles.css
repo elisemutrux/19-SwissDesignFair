@@ -1,8 +1,9 @@
 body {
-  max-width: 320px;
+  max-width: 380px;
   margin: auto;
   background: #ffffff;
   font-family: elza-text, sans-serif;
+  font-size: 18px;
 }
 
 img {
@@ -41,7 +42,7 @@ h3{
 
 .titel{
   background-image: url(../img/img-titel.jpg);
-  padding: 60px 30px;
+  padding: 73px 30px;
   text-align: center;
 }
 
@@ -69,8 +70,20 @@ header nav{
   padding: 10px 30px;
 }
 
+.img-product{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.stan-lee h2,
+.paddle h2{
+  color: #c20e1a;
+}
+
 .product img{
   max-height: 200px;
+  padding: 20px;
 }
 
 .paddle{
@@ -84,7 +97,7 @@ header nav{
 .info{
   background-color: #c20e1a;
   margin: 0;
-  padding: 20px 80px;
+  padding: 20px 50px;
   text-align: center;
   color: #ffffff;
 }
