@@ -86,6 +86,11 @@ header nav{
   padding: 20px;
 }
 
+.stan-lee,.paddle{
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
 .paddle{
   border-top:#c20e1a 2px solid;
 }
