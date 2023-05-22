@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.16 48.16">
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54">
   <defs>
     <style>
       .cls-1 {
@@ -7,18 +7,30 @@
       }
 
       .cls-2 {
+        fill: #c00e1a;
+      }
+
+      .cls-3 {
+        stroke-width: 2.96px;
+      }
+
+      .cls-3, .cls-4 {
         fill: none;
-        stroke: #fff;
+        stroke: #c00e1a;
         stroke-miterlimit: 10;
-        stroke-width: 4.66px;
+      }
+
+      .cls-4 {
+        stroke-width: 3.3px;
       }
     </style>
   </defs>
   <g id="Calque_1-2" data-name="Calque 1">
     <g>
-      <circle class="cls-2" cx="23.56" cy="23.56" r="10.36"/>
-      <circle class="cls-1" cx="36.64" cy="11.26" r="2.72"/>
-      <rect class="cls-2" x="2.33" y="2.33" width="43.5" height="43.5" rx="12.95" ry="12.95"/>
+      <rect class="cls-1" width="54" height="54" rx="11.87" ry="11.87"/>
+      <rect class="cls-4" x="8.87" y="8.5" width="36.2" height="36.2" rx="10.22" ry="10.22"/>
+      <circle class="cls-3" cx="26.92" cy="26.74" r="8.56"/>
+      <circle class="cls-2" cx="37.69" cy="16.2" r="2.2"/>
     </g>
   </g>
 </svg>
