@@ -24,6 +24,7 @@ h4{
   font-weight: 500;
   font-size: 25px;
   text-align: center;
+  margin: 30px 0 18px;
 }
 
 h3{
@@ -124,4 +125,8 @@ header nav{
 
 .product{
   border-top:#ffffff 2px solid;
+}
+
+.intro h2{
+  margin-top: 20px;
 }
