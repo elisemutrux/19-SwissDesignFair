@@ -114,3 +114,10 @@ header nav{
   text-align: center;
   color: #ffffff;
 }
+
+.lien{
+  display:flex;
+  height:45px;
+  justify-content:center;
+  justify-content: space-around;
+}
