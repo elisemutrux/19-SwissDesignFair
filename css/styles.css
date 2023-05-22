@@ -64,7 +64,7 @@ header nav{
   justify-content: center;
 }
 
-.product{
+.intro-product{
   background-color: #c20e1a;
   color: #ffffff;
   padding: 10px 30px;
@@ -120,4 +120,8 @@ header nav{
   height:45px;
   justify-content:center;
   justify-content: space-around;
+}
+
+.product{
+  border-top:#ffffff 2px solid;
 }
